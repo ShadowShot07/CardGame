@@ -1,0 +1,22 @@
+{
+	"rooms": {
+		"Room": {
+			"players visible": true,
+			"player limit": 0,
+			"fps": 60,
+			"frames per sync": 2,
+			"recover update time": true,
+			"transform precision": {
+				"position": 0.001,
+				"rotation": 0.001,
+				"scale": 0.001
+			},
+			"cluster reconnect delay": 10,
+			"cluster reconnect attempts": -1,
+			"physics threads": 4,
+			"network threads": 4,
+			"encoding threads": 4,
+			"parallel controllers": false
+		}
+	}
+}

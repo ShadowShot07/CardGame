@@ -1,0 +1,14 @@
+D:\GameDev\TeamMadnessGames\Juegos\Dakard\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.dll
+D:\GameDev\TeamMadnessGames\Juegos\Dakard\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.pdb
+D:\GameDev\TeamMadnessGames\Juegos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.AssemblyReference.cache
+D:\GameDev\TeamMadnessGames\Juegos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.CoreCompileInputs.cache
+D:\GameDev\TeamMadnessGames\Juegos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.CopyComplete
+D:\GameDev\TeamMadnessGames\Juegos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.dll
+D:\GameDev\TeamMadnessGames\Juegos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.pdb
+D:\Programas\Unity\Proyectos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.dll
+D:\Programas\Unity\Proyectos\Dakard\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.dll
+D:\Programas\Unity\Proyectos\Dakard\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.pdb
+D:\Programas\Unity\Proyectos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.AssemblyReference.cache
+D:\Programas\Unity\Proyectos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.CoreCompileInputs.cache
+D:\Programas\Unity\Proyectos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServer.8C2C61C2.Up2Date
+D:\Programas\Unity\Proyectos\Dakard\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.pdb
